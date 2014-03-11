@@ -1,6 +1,12 @@
-Massively multiplayer online flappy box Based on this [Blog]
+Massively multiplayer online flappy box Based on this [Blog] and [Connect4] ([Github][1])
 
-* Use [http-server] to serve *http://localhost:8080*
+* npm install
+* bower install bootstrap alertify.js
+* grunt less concat:js
+* node server.js
+
+Note: the *'localhost'* in */assets/javascript/frontend.js* control the server address
 
 [Blog]:http://blog.lessmilk.com/how-to-make-flappy-bird-in-html5-1/
-[http-server]:https://github.com/nodeapps/http-server
+[Connect4]:http://code.tutsplus.com/tutorials/connect-4-with-socketio--cms-19869
+[1]:https://github.com/gnarula/connect4
