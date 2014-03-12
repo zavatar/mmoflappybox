@@ -8,13 +8,14 @@
   },
   "dependencies": {
     "express": "3.x",
-    "jade":"*",
-    "socket.io":"*",
-    "async":"*",
-    "grunt":"*",
-    "grunt-contrib-concat":"*",
-    "grunt-contrib-less":"*",
-    "grunt-contrib-watch":"*"
+    "jade": "*",
+    "ejs": "*",
+    "socket.io": "*",
+    "grunt": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-copy": "*"
   },
   "repository": "https://github.com/zhumeng1989/mmoflappybox",
   "author": "zavatar"

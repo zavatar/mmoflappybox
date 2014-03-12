@@ -1,11 +1,11 @@
 Massively multiplayer online flappy box Based on this [Blog] and [Connect4] ([Github][1])
 
 * npm install
-* bower install bootstrap alertify.js
-* grunt less concat:js
+* bower install jquery alertify.js
+* grunt 
 * node server.js
 
-Note: the *'localhost'* in */assets/javascript/frontend.js* control the server address
+Note: the *'localhost'* in */assets/flappy.js* control the server address
 
 [Blog]:http://blog.lessmilk.com/how-to-make-flappy-bird-in-html5-1/
 [Connect4]:http://code.tutsplus.com/tutorials/connect-4-with-socketio--cms-19869
